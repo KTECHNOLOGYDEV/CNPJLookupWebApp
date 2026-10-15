@@ -1,0 +1,10 @@
+{
+  "description": "Easily search and verify CNPJ information with a modern, user-friendly interface designed for businesses and individuals seeking reliable data.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
